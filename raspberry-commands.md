@@ -1,10 +1,14 @@
-Login
+# Login
+
 user: pi
+
 pwd : raspberry
 
-Shutdown
+# Shutdown
 sudo shutdown -h now OR sudo halt OR sudo poweroff
 
-SSH
+# SSH
+
 ssh pi@raspberrypi.local
+
 pwd : raspberry
