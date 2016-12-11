@@ -12,3 +12,7 @@ sudo shutdown -h now OR sudo halt OR sudo poweroff
 ssh pi@raspberrypi.local
 
 pwd : raspberry
+
+# Admin settings
+
+sudo raspi-config
