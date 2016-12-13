@@ -24,3 +24,7 @@ sudo raspi-config
 # Board settings
 
 vcgencmd measure_temp
+
+# After first connecting to the internet 
+
+sudo apt-get update
